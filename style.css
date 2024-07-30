@@ -255,6 +255,10 @@ body{
     color: #FFF;
 }
 
+.finalizar-compra li{
+    margin: 0 1em;
+}
+
 .botao-chamativo{
     width: 33%;
     margin: 2em auto;
