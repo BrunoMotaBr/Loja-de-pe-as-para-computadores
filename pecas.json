@@ -1,0 +1,452 @@
+[
+    {
+        "Id": 0,
+        "Marca": "Intel",
+        "Tipo": "Processador",
+        "Nome": "I310253",
+        "Preco": 550.00,
+        "Descricao": "Processador Intel de última geração, ideal para tarefas multitarefa."
+        ,"Imagem": "imagens/0.webp"
+    },
+    {
+        "Id": 1,
+        "Marca": "AMD",
+        "Tipo": "Processador",
+        "Nome": "Athom 3000",
+        "Preco": 250.00,
+        "Descricao": "Processador AMD econômico e eficiente, perfeito para uso diário."
+        ,"Imagem": "imagens/1.webp"
+    },
+    {
+        "Id": 2,
+        "Marca": "Corsair",
+        "Tipo": "Memória RAM",
+        "Nome": "Vengeance LPX 16GB",
+        "Preco": 320.00,
+        "Descricao": "Módulo de RAM de alto desempenho para jogos e edição de vídeo."
+        ,"Imagem": "imagens/2.webp"
+    },
+    {
+        "Id": 3,
+        "Marca": "Samsung",
+        "Tipo": "SSD",
+        "Nome": "970 EVO Plus 1TB",
+        "Preco": 600.00,
+        "Descricao": "SSD NVMe de alta velocidade para tempos de carregamento ultrarrápidos."
+        ,"Imagem": "imagens/3.webp"
+    },
+    {
+        "Id": 4,
+        "Marca": "Seagate",
+        "Tipo": "HDD",
+        "Nome": "Barracuda 2TB",
+        "Preco": 200.00,
+        "Descricao": "Disco rígido confiável com grande capacidade de armazenamento."
+        ,"Imagem": "imagens/4.webp"
+    },
+    {
+        "Id": 5,
+        "Marca": "Asus",
+        "Tipo": "Placa Mãe",
+        "Nome": "ROG Strix Z590-E",
+        "Preco": 900.00,
+        "Descricao": "Placa mãe de alta qualidade para gamers e entusiastas de PC."
+        ,"Imagem": "imagens/5.webp"
+    },
+    {
+        "Id": 6,
+        "Marca": "NVIDIA",
+        "Tipo": "Placa de Vídeo",
+        "Nome": "RTX 3080",
+        "Preco": 5000.00,
+        "Descricao": "Placa gráfica topo de linha para jogos e aplicativos de realidade virtual."
+        ,"Imagem": "imagens/6.webp"
+    },
+    {
+        "Id": 7,
+        "Marca": "Logitech",
+        "Tipo": "Mouse",
+        "Nome": "G502 HERO",
+        "Preco": 250.00,
+        "Descricao": "Mouse gamer de alta precisão com botões programáveis."
+        ,"Imagem": "imagens/7.webp"
+    },
+    {
+        "Id": 8,
+        "Marca": "Razer",
+        "Tipo": "Teclado",
+        "Nome": "BlackWidow V3",
+        "Preco": 800.00,
+        "Descricao": "Teclado mecânico com iluminação RGB personalizável."
+        ,"Imagem": "imagens/8.webp"
+    },
+    {
+        "Id": 9,
+        "Marca": "Acer",
+        "Tipo": "Monitor",
+        "Nome": "Predator XB273",
+        "Preco": 2000.00,
+        "Descricao": "Monitor gamer com alta taxa de atualização e suporte G-Sync."
+        ,"Imagem": "imagens/9.webp"
+    },
+    {
+        "Id": 10,
+        "Marca": "Cooler Master",
+        "Tipo": "Gabinete",
+        "Nome": "MasterBox Q300L",
+        "Preco": 350.00,
+        "Descricao": "Gabinete compacto com excelente fluxo de ar e design modular."
+        ,"Imagem": "imagens/10.webp"
+    },
+    {
+        "Id": 11,
+        "Marca": "Corsair",
+        "Tipo": "Fonte de Alimentação",
+        "Nome": "RM850x",
+        "Preco": 650.00,
+        "Descricao": "Fonte de alimentação modular com alta eficiência e operação silenciosa."
+        ,"Imagem": "imagens/11.webp"
+    },
+    {
+        "Id": 12,
+        "Marca": "HyperX",
+        "Tipo": "Headset",
+        "Nome": "Cloud II",
+        "Preco": 400.00,
+        "Descricao": "Headset gamer com som surround e microfone removível."
+        ,"Imagem": "imagens/12.webp"
+    },
+    {
+        "Id": 13,
+        "Marca": "Logitech",
+        "Tipo": "Webcam",
+        "Nome": "C920",
+        "Preco": 300.00,
+        "Descricao": "Webcam de alta definição com foco automático e microfone estéreo."
+        ,"Imagem": "imagens/13.webp"
+    },
+    {
+        "Id": 14,
+        "Marca": "Kingston",
+        "Tipo": "Memória RAM",
+        "Nome": "HyperX Fury 8GB",
+        "Preco": 180.00,
+        "Descricao": "Módulo de RAM acessível e confiável para upgrades de sistema."
+        ,"Imagem": "imagens/14.webp"
+    },
+    {
+        "Id": 15,
+        "Marca": "Asus",
+        "Tipo": "Placa de Vídeo",
+        "Nome": "GTX 1660",
+        "Preco": 1200.00,
+        "Descricao": "Placa de vídeo de nível intermediário, ideal para jogos em Full HD."
+        ,"Imagem": "imagens/15.webp"
+    },
+    {
+        "Id": 16,
+        "Marca": "AMD",
+        "Tipo": "Processador",
+        "Nome": "Ryzen 5 3600",
+        "Preco": 850.00,
+        "Descricao": "Processador com 6 núcleos, ótimo para multitarefa e jogos."
+        ,"Imagem": "imagens/16.webp"
+    },
+    {
+        "Id": 17,
+        "Marca": "Crucial",
+        "Tipo": "SSD",
+        "Nome": "MX500 500GB",
+        "Preco": 350.00,
+        "Descricao": "SSD SATA com ótima relação custo-benefício e desempenho sólido."
+        ,"Imagem": "imagens/17.webp"
+    },
+    {
+        "Id": 18,
+        "Marca": "Gigabyte",
+        "Tipo": "Placa Mãe",
+        "Nome": "B450M DS3H",
+        "Preco": 450.00,
+        "Descricao": "Placa mãe compacta com suporte a processadores AMD Ryzen."
+        ,"Imagem": "imagens/18.webp"
+    },
+    {
+        "Id": 19,
+        "Marca": "Dell",
+        "Tipo": "Monitor",
+        "Nome": "UltraSharp U2419H",
+        "Preco": 1100.00,
+        "Descricao": "Monitor com alta precisão de cores, ideal para edição de fotos e vídeos."
+        ,"Imagem": "imagens/19.webp"
+    },
+    {
+        "Id": 20,
+        "Marca": "SteelSeries",
+        "Tipo": "Mouse",
+        "Nome": "Rival 600",
+        "Preco": 300.00,
+        "Descricao": "Mouse gamer com sensor de precisão dupla e design ergonômico."
+        ,"Imagem": "imagens/20.webp"
+    },
+    {
+        "Id": 21,
+        "Marca": "MSI",
+        "Tipo": "Placa de Vídeo",
+        "Nome": "RTX 3060",
+        "Preco": 2500.00,
+        "Descricao": "Placa de vídeo potente para jogos em alta resolução."
+        ,"Imagem": "imagens/21.webp"
+    },
+    {
+        "Id": 22,
+        "Marca": "Asus",
+        "Tipo": "Teclado",
+        "Nome": "TUF Gaming K3",
+        "Preco": 400.00,
+        "Descricao": "Teclado mecânico resistente, projetado para longas sessões de jogo."
+        ,"Imagem": "imagens/22.webp"
+    },
+    {
+        "Id": 23,
+        "Marca": "Logitech",
+        "Tipo": "Caixa de Som",
+        "Nome": "Z625",
+        "Preco": 650.00,
+        "Descricao": "Sistema de som 2.1 com subwoofer potente para uma experiência imersiva."
+        ,"Imagem": "imagens/23.webp"
+    },
+    {
+        "Id": 24,
+        "Marca": "Corsair",
+        "Tipo": "Cooler Líquido",
+        "Nome": "H100i RGB Platinum",
+        "Preco": 700.00,
+        "Descricao": "Sistema de resfriamento líquido para CPU com iluminação RGB."
+        ,"Imagem": "imagens/24.webp"
+    },
+    {
+        "Id": 25,
+        "Marca": "Seagate",
+        "Tipo": "HDD",
+        "Nome": "FireCuda 2TB",
+        "Preco": 300.00,
+        "Descricao": "Disco rígido híbrido com cache SSD para maior desempenho."
+        ,"Imagem": "imagens/25.webp"
+    },
+    {
+        "Id": 26,
+        "Marca": "Samsung",
+        "Tipo": "SSD",
+        "Nome": "860 EVO 500GB",
+        "Preco": 400.00,
+        "Descricao": "SSD SATA confiável com desempenho consistente e durabilidade."
+        ,"Imagem": "imagens/26.webp"
+    },
+    {
+        "Id": 27,
+        "Marca": "Razer",
+        "Tipo": "Mouse",
+        "Nome": "DeathAdder Elite",
+        "Preco": 280.00,
+        "Descricao": "Mouse gamer icônico com sensor de alta precisão."
+        ,"Imagem": "imagens/27.webp"
+    },
+    {
+        "Id": 28,
+        "Marca": "NZXT",
+        "Tipo": "Gabinete",
+        "Nome": "H510",
+        "Preco": 500.00,
+        "Descricao": "Gabinete mid-tower com design minimalista e ótima gestão de cabos."
+        ,"Imagem": "imagens/28.webp"
+    },
+    {
+        "Id": 29,
+        "Marca": "Asus",
+        "Tipo": "Placa Mãe",
+        "Nome": "TUF Gaming B550-PLUS",
+        "Preco": 750.00,
+        "Descricao": "Placa mãe durável com suporte a processadores AMD Ryzen de última geração."
+        ,"Imagem": "imagens/29.webp"
+    },
+    {
+        "Id": 30,
+        "Marca": "Kingston",
+        "Tipo": "Memória RAM",
+        "Nome": "FURY Beast 16GB",
+        "Preco": 350.00,
+        "Descricao": "RAM de alto desempenho com overclock automático."
+        ,"Imagem": "imagens/30.webp"
+    },
+    {
+        "Id": 31,
+        "Marca": "HyperX",
+        "Tipo": "Headset",
+        "Nome": "Cloud Alpha",
+        "Preco": 450.00,
+        "Descricao": "Headset com som de alta qualidade e conforto para longas sessões de uso."
+        ,"Imagem": "imagens/31.webp"
+    },
+    {
+        "Id": 32,
+        "Marca": "Logitech",
+        "Tipo": "Mouse",
+        "Nome": "MX Master 3",
+        "Preco": 400.00,
+        "Descricao": "Mouse ergonômico com controle preciso e recursos avançados para produtividade."
+        ,"Imagem": "imagens/32.webp"
+    },
+    {
+        "Id": 33,
+        "Marca": "AOC",
+        "Tipo": "Monitor",
+        "Nome": "CQ32G1",
+        "Preco": 1700.00,
+        "Descricao": "Monitor curvo QHD com alta taxa de atualização, ideal para jogos."
+        ,"Imagem": "imagens/33.webp"
+    },
+    {
+        "Id": 34,
+        "Marca": "Gigabyte",
+        "Tipo": "Placa de Vídeo",
+        "Nome": "RX 6700 XT",
+        "Preco": 3800.00,
+        "Descricao": "Placa de vídeo poderosa para jogos e trabalho criativo."
+        ,"Imagem": "imagens/34.webp"
+    },
+    {
+        "Id": 35,
+        "Marca": "Corsair",
+        "Tipo": "Fonte de Alimentação",
+        "Nome": "CX650M",
+        "Preco": 450.00,
+        "Descricao": "Fonte de alimentação semi-modular com certificação 80 PLUS Bronze."
+        ,"Imagem": "imagens/35.webp"
+    },
+    {
+        "Id": 36,
+        "Marca": "AMD",
+        "Tipo": "Processador",
+        "Nome": "Ryzen 9 5900X",
+        "Preco": 3200.00,
+        "Descricao": "Processador de alto desempenho com 12 núcleos, ideal para multitarefa intensa."
+        ,"Imagem": "imagens/36.webp"
+    },
+    {
+        "Id": 37,
+        "Marca": "Asus",
+        "Tipo": "Teclado",
+        "Nome": "ROG Strix Scope",
+        "Preco": 500.00,
+        "Descricao": "Teclado mecânico com teclas programáveis e iluminação RGB."
+        ,"Imagem": "imagens/37.webp"
+    },
+    {
+        "Id": 38,
+        "Marca": "Dell",
+        "Tipo": "Monitor",
+        "Nome": "Alienware AW3420DW",
+        "Preco": 4000.00,
+        "Descricao": "Monitor curvo ultra-wide com resolução WQHD e alta taxa de atualização."
+        ,"Imagem": "imagens/38.webp"
+    },
+    {
+        "Id": 39,
+        "Marca": "Razer",
+        "Tipo": "Headset",
+        "Nome": "Kraken X",
+        "Preco": 250.00,
+        "Descricao": "Headset leve e confortável com som surround 7.1."
+        ,"Imagem": "imagens/39.webp"
+    },
+    {
+        "Id": 40,
+        "Marca": "Logitech",
+        "Tipo": "Mouse",
+        "Nome": "G Pro Wireless",
+        "Preco": 600.00,
+        "Descricao": "Mouse sem fio com sensor HERO e design leve para eSports."
+        ,"Imagem": "imagens/40.webp"
+    },
+    {
+        "Id": 41,
+        "Marca": "MSI",
+        "Tipo": "Placa Mãe",
+        "Nome": "MPG Z490 GAMING EDGE",
+        "Preco": 1200.00,
+        "Descricao": "Placa mãe para entusiastas com suporte a overclocking."
+        ,"Imagem": "imagens/41.webp"
+    },
+    {
+        "Id": 42,
+        "Marca": "Samsung",
+        "Tipo": "SSD",
+        "Nome": "980 PRO 1TB",
+        "Preco": 1000.00,
+        "Descricao": "SSD NVMe de alto desempenho com velocidades de leitura ultrarrápidas."
+        ,"Imagem": "imagens/42.webp"
+    },
+    {
+        "Id": 43,
+        "Marca": "Seagate",
+        "Tipo": "HDD",
+        "Nome": "IronWolf 4TB",
+        "Preco": 800.00,
+        "Descricao": "Disco rígido para NAS com alta capacidade e durabilidade."
+        ,"Imagem": "imagens/43.webp"
+    },
+    {
+        "Id": 44,
+        "Marca": "Asus",
+        "Tipo": "Placa de Vídeo",
+        "Nome": "RTX 3070",
+        "Preco": 3000.00,
+        "Descricao": "Placa de vídeo de alto desempenho com Ray Tracing."
+        ,"Imagem": "imagens/44.webp"
+    },
+    {
+        "Id": 45,
+        "Marca": "Cooler Master",
+        "Tipo": "Gabinete",
+        "Nome": "MasterCase H500",
+        "Preco": 800.00,
+        "Descricao": "Gabinete com excelente fluxo de ar e suporte a refrigeração líquida."
+        ,"Imagem": "imagens/45.webp"
+    },
+    {
+        "Id": 46,
+        "Marca": "Corsair",
+        "Tipo": "Memória RAM",
+        "Nome": "Vengeance RGB Pro 32GB",
+        "Preco": 1000.00,
+        "Descricao": "RAM de alta capacidade com iluminação RGB e overclocking."
+        ,"Imagem": "imagens/46.webp"
+    },
+    {
+        "Id": 47,
+        "Marca": "HyperX",
+        "Tipo": "Teclado",
+        "Nome": "Alloy FPS Pro",
+        "Preco": 450.00,
+        "Descricao": "Teclado mecânico compacto, ideal para eSports."
+        ,"Imagem": "imagens/47.webp"
+    },
+    {
+        "Id": 48,
+        "Marca": "Logitech",
+        "Tipo": "Mouse",
+        "Nome": "MX Anywhere 2S",
+        "Preco": 350.00,
+        "Descricao": "Mouse portátil com sensor de alta precisão e botões personalizáveis."
+        ,"Imagem": "imagens/48.webp"
+    },
+    {
+        "Id": 49,
+        "Marca": "MSI",
+        "Tipo": "Monitor",
+        "Nome": "Optix MAG272C",
+        "Preco": 1500.00,
+        "Descricao": "Monitor curvo com taxa de atualização de 165Hz, ideal para jogos rápidos."
+        ,"Imagem": "imagens/49.webp"
+    }
+]

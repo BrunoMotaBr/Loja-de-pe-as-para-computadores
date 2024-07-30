@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Loja Online Montagem de Macro</title>
+</head> 
+<body>
+    <header class="cabecalho">
+        <img src="logo.png" alt="Logo site">
+    </header>
+
+    <section id="tipos">
+        
+    </section>
+    <main>
+        <section style="display: flex; flex-direction: column; align-items: center;">
+            <div id="produtos" class="cards-produtos">
+            </div>  
+            <div id="paginacaoContainer" class="paginacao"></div>
+        </section>
+    </main>
+    <div>
+        <button onclick="trocaClasse()" id="botao-pricipal" class="botao-pricipal">&lt;</button>
+    </div>
+    <div id="carrinho" class="carrinhoEscondido">
+        <div style="display: flex; justify-content: center;"><h3 style="color: #FFF;">R$</h3><h3 id="total">0.00</h3></div>
+        <button class='botao-chamativo' style="width: 70%;font-weight: bolder;" id="finalizarCompra" onclick="finalizarCompra()">Finalizar Compra</button>
+    </div>
+</body>
+<script src="main.js"></script>
+</html>
